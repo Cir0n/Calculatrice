@@ -25,6 +25,7 @@ Ouvrez ensuite l'adresse affichée dans le terminal ( http://localhost:5173).
 
 ## Capture d'écran
 
-![alt text](image.png)
+<img width="1240" height="593" alt="image" src="https://github.com/user-attachments/assets/146e5905-0efe-4f5c-8134-519d7b3ac757" />
+
 
 
